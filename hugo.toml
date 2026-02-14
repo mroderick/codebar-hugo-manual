@@ -1,0 +1,6 @@
+languageCode = 'en-us'
+title = "codebar's Organiser Hub"
+theme = 'codebar-simple'
+
+[taxonomies]
+  tag = 'tags'
