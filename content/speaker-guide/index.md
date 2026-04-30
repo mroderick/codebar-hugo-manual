@@ -2,6 +2,7 @@
 date = '2026-04-27T00:00:00Z'
 title = "Speaker Guide"
 weight = 90
+aliases = ["/speaker-guide.html"]
 +++
 
 ### codebar Speaker Guide

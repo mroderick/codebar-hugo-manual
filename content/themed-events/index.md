@@ -2,6 +2,7 @@
 date = '2025-12-17T00:00:00Z'
 title = "List of Themed Events"
 weight = 80
+aliases = ["/themed-events.html"]
 +++
 
 Here are suggestions for some one-off events you can run as a chapter

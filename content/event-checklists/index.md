@@ -2,6 +2,7 @@
 date = '2025-12-17T00:00:00Z'
 title = "Event Checklists"
 weight = 70
+aliases = ["/pre-post-workshop-lists.html"]
 +++
 
 ## Pre Workshop Checklist  Two+ weeks before the workshop
