@@ -1,0 +1,34 @@
++++
+date = '2025-12-17T00:00:00Z'
+title = "List of Themed Events"
+weight = 80
++++
+
+Here are suggestions for some one-off events you can run as a chapter
+
+Using AI workshop
+
+- Teach students how to effectively use AI in their coding workflows using industry standards.
+
+CV workshop
+
+- Run an event focused around interviewing and writing a CV, have attendees and coaches give each other CV reviews as part of it
+
+Christmas/holiday themed workshop
+
+- Christmas themed event
+
+Show and tell
+
+- Everyone presents a personal project they're working on/made
+
+Non technical events
+
+- Games night
+- Social
+- Sticker exchange, where everyone brings in stickers and swaps them with one another
+- Picnic
+
+Uncodebar
+
+- A single day unconference. Speak to codebar HQ if you'd like to run one and we'll support.
